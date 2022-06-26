@@ -2,7 +2,7 @@
 
 
 
-![](https://github.com/aloysius-riki/issues-for-zapier-platform-ui-private-app/blob/main/GitHub%20Issues%20-%20Platform%20UI%20Private%20App.png?raw=true)
+![](https://github.com/aloysius-riki/github-issues-platform-cli-private-app/blob/main/GitHub%20Issues%20-%20Platform%20CLI%20Private%20App.png?raw=true)
 
 [Use GitHub Issues - Platform CLI Private App on Zapier!](https://zapier.com/developer/public-invite/164008/7d1812897ada394526c5544ca06e86ff/)
 
